@@ -1,0 +1,42 @@
+wmic path softwarelicensingservice get OA3xOriginalProductKey
+32MXQ-TNVGD-2K4FB-8KWD4-QGPR9（获取密钥）
+2019版office避免变卡
+打开word→文件→选项→高级→勾选“禁用硬件图形加速
+火狐扩展搜tempermonkey
+WORD提升无法加载模块，直接删去
+C:\Users\50537\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.7_qbz5n2kfra8p0\LocalCache\local-packages\Python37\Scripts>
+切换到虚拟环境..\\.venvs\lpthw\Scripts\activate（在lpthw文件夹下才可以？）
+ mkdir bin, NAME, tests, docs  中间的逗号一定要=要用逗号
+cd ~回到目录，中间要有空格
+ mkdir temp/stuff/things 新建文件夹 斜线
+ cd temp/stuff/things/orange/apple/pear/grape向里
+ cd ../../../../../../../向外
+dir -R 遍历所有文件
+pushd 命令会把你当前的目录“push”到一个列表里，然后它会切换到另外一个目录，就好像在
+说：“保存我现在的位置，然后去到那儿”。
+popd 命令则是把你从你之前去到的目录那里拉回来。
+pwd 输出路径
+New-Item iamcool.txt 创建空文件
+cp awesome.txt something/把awesome.txt复制到something文件夹下面
+cp -recurse something newplace 新建一个newplace，然后内容与something相同
+more test.txt [display file here] 对当前目录下文件进行内容查看
+cat 命令是把整个文件内容全部呈现到屏幕上，没有翻页或者停止。
+cp -r something newplace 把something文件夹复制到newplace
+rm -r 删除文件
+rmdir 删除空文件
+exit退出shell
+这些是啥
+• forfiles
+• runas
+• attrib
+• icacls
+ls -R 列示当前目录的非空子目录
+**表示按照字典解包 * 表示按照元组或者列表解包
+mv 移动文件，或者重命名，很简单：给出原来的名字和新的名字即可。
+退出虚拟环境deactivate
+type setup.py 看看内容
+python setup.py install 演示安装nosetests
+Atom里面查找，ctrl+t
+Py文件名不能包括\
+我的电脑型号16773
+移动代码块TAB / shift+TAB
